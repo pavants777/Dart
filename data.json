@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Praveen",
+        "age" : 20,
+        "number" : 7382
+    },
+    { 
+        "name" : "Manoj",
+        "age" : 20,
+        "number" : 8239
+    },
+    { 
+        "name" : "Ravi",
+        "age" : 20,
+        "number" : 9301
+    },
+    { 
+        "name" : "Rahul",
+        "age" : 15,
+        "number" : 4831
+    }
+]
